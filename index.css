@@ -1,2 +1,34 @@
-h1{ font-size: arial;
-color purple; }
+h1{ 
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: #990099d3; }
+.couch{
+    color: #0909b8;
+}
+.table{
+    color: #034903;
+}
+.chair{color: #680505;}
+article{
+    border: 5px solid #0bd6f1;
+margin: 5cap;
+padding: 5cap;
+background-color: #5f9ea0;
+}
+body{
+    background-color: #ffe4c4;
+
+}
+button{
+    background-color: gold;
+    font-style: italic;
+}
+p{
+    font-size: 10pt;
+    color: #380671;
+}
+.money {
+    font-size: 20pt;
+}
+.less{
+    font-size: 12pt;
+}
